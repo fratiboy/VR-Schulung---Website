@@ -1,6 +1,9 @@
 .carousel-inner img {
     width: 100%;
+}
 
+.names_text {
+    text-align: center;
 }
 
 .carousel-inner {
