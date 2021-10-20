@@ -3,7 +3,7 @@
 }
 
 .col-lg-4:hover {
-    background-color: rgba(0,0,0,0.015);
+    background-color: rgba(0,0,0,0.025);
 }
 .col-lg-4 {
     border-radius: 10px;
