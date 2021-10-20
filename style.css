@@ -24,3 +24,7 @@
     object-fit: cover !important;
     object-position: 0% 20% !important;
 }
+
+.row .ueberd{
+    text-align: center;
+}
