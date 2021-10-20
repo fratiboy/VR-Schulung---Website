@@ -18,3 +18,9 @@
     font-size: 8vw;
 }
 
+.carousel_img {
+    width: 100% !important;
+    height: 600px !important;
+    object-fit: cover !important;
+    object-position: 0% 20% !important;
+}
