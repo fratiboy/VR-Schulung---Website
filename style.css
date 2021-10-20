@@ -3,15 +3,15 @@
 }
 
 .col-lg-4:hover {
-    background-color: rgba(0,0,0,0.025);
+    background-color: rgba(0, 0, 0, 0.025);
 }
+
 .col-lg-4 {
     border-radius: 10px;
 }
 
 .carousel-caption {
-    top: 45%;
-
+    top: 50%;
 }
 
 .carousel-caption h1 {
@@ -23,8 +23,9 @@
     height: 600px !important;
     object-fit: cover !important;
     object-position: 0% 20% !important;
+    filter: brightness(50%);
 }
 
-.row .ueberd{
+.row .ueberd {
     text-align: center;
 }
