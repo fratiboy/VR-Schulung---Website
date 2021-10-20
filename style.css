@@ -2,12 +2,9 @@
     text-align: center;
 }
 
-.names_text svg:hover {
-    width: 160px;
-    height: 160px;
+.col-lg-4:hover {
+    background-color: rgba(0,0,0,0.015);
 }
-
-.names_text img:hover {
-    width: 160px;
-    height: 160px;
+.col-lg-4 {
+    border-radius: 10px;
 }
